@@ -3,7 +3,7 @@
 
 --gradient-2 : linear-gradient(to bottom right, rgb(80, 80, 255), rgb(253, 119, 119));
 
---gradient-3 :  linear-gradient(to bottom right, rgb(255, 207, 145),rgb(255, 111, 92));
+--gradient-3 : linear-gradient(to bottom right, rgb(255, 207, 145),rgb(255, 111, 92));
 
 --gradient-4 : linear-gradient(to bottom right, #2af598, #009efd);
 
