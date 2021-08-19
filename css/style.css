@@ -39,7 +39,7 @@ body a {
 
 /* Header */
 header {
-    background-image: url("./images/header-bg.png");
+    background-image: url("/images/header-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -490,7 +490,7 @@ header {
 /* Footer */
 .footer {
     margin-top: 80px;
-    background-image: url(./images/footer-agency.png);
+    background-image: url(/images/footer-agency.png);
     background-size: cover;
 }
 
