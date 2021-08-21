@@ -1,2 +1,2 @@
 # portfolio
-Personal portfolio repository
+Portfolio repository usinh HTML, CSS, and JS
